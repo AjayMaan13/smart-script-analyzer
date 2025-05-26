@@ -107,7 +107,7 @@ streamlit run app.py
 
 - 🚀 **Live Demo**: [Try the App](https://smart-script-analyzer-pxnezltk8wdw775z5ehkwg.streamlit.app)
 - 💻 **Source Code**: [GitHub](https://github.com/AjayMaan13/smart-receipt-analyzer)
-- 💼 **LinkedIn**: [[Your Profile](https://www.linkedin.com/in/ajaypartap-singh-maan/)]
+- 💼 **LinkedIn**: [[Ajaypartap Singh Maan](https://www.linkedin.com/in/ajaypartap-singh-maan/)]
 - 📧 **Email**: ajayapsmaanm13@gmail.com
 
 ---
