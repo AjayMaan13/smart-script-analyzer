@@ -1,6 +1,6 @@
 # 🧾 AI Receipt Analyzer
 
-| AI-powered receipt analysis with computer vision and web deployment
+AI-powered receipt analysis with computer vision and web deployment
 
 Transform receipt photos into structured data and spending insights using GPT-4 Vision API.
 
