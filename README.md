@@ -4,7 +4,7 @@
 
 Transform receipt photos into structured data and spending insights using GPT-4 Vision API.
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Try_Now-blue)](https://your-app-url.streamlit.app) [![GitHub](https://img.shields.io/badge/📂_Code-GitHub-black)](https://github.com/AjayMaan13/smart-receipt-analyzer)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Try_Now-blue)](https://smart-script-analyzer-pxnezltk8wdw775z5ehkwg.streamlit.app) [![GitHub](https://img.shields.io/badge/📂_Code-GitHub-black)](https://github.com/AjayMaan13/smart-receipt-analyzer)
 
 ---
 
@@ -69,7 +69,7 @@ Tools:       Git, GitHub
 
 ## 🚀 **Quick Start**
 
-**Try Live Demo**: [Receipt Analyzer](https://your-app-url.streamlit.app)
+**Try Live Demo**: [Receipt Analyzer](https://smart-script-analyzer-pxnezltk8wdw775z5ehkwg.streamlit.app)
 
 **Run Locally**:
 ```bash
@@ -105,7 +105,7 @@ streamlit run app.py
 
 ## 🔗 **Connect**
 
-- 🚀 **Live Demo**: [Try the App](https://your-app-url.streamlit.app)
+- 🚀 **Live Demo**: [Try the App](https://smart-script-analyzer-pxnezltk8wdw775z5ehkwg.streamlit.app)
 - 💻 **Source Code**: [GitHub](https://github.com/AjayMaan13/smart-receipt-analyzer)
 - 💼 **LinkedIn**: [[Your Profile](https://www.linkedin.com/in/ajaypartap-singh-maan/)]
 - 📧 **Email**: ajayapsmaanm13@gmail.com
